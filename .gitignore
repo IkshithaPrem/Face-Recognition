@@ -1,0 +1,11 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+*.pkl
+*.db
+.idea/
+.vscode/
+*.log
+*.sqlite3
+node_modules/
